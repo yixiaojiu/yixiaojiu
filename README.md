@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2023 - To: 20 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-TypeScript             4 hrs 52 mins   █████████████▒░░░░░░░░░░░   53.48 %
-Kotlin                 1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Markdown               50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Vue.js                 41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-JSON                   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+TypeScript             18 hrs 46 mins  ██████████████████░░░░░░░   71.59 %
+Markdown               2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Kotlin                 1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Vue.js                 1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+JSON                   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
