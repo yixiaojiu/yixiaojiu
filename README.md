@@ -1,7 +1,6 @@
 <h1> hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="24" />, 2023 </h1>
 
 - 🧑🏻‍💻 I am a front-end developer
-- 🌱 I’m currently learning Android
 
 **This week I spent my time on** 
 
