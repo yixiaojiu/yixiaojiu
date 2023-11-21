@@ -7,13 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 14 November 2023 - To: 21 November 2023
 
-TypeScript   11 hrs 37 mins  ███████████████████▒░░░░░   77.64 %
-Rust         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-JavaScript   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
