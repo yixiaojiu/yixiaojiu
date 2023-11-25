@@ -7,9 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2023 - To: 21 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-No activity tracked
+Rust         4 hrs 44 mins   ███████████████░░░░░░░░░░   59.36 %
+TypeScript   1 hr 55 mins    ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+Markdown     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+TOML         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
