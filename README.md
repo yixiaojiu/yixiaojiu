@@ -10,9 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-Rust   28 mins         █████████████████████████   100.00 %
+JavaScript   6 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.60 %
+Rust         3 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+Markdown     3 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+JSON         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+TypeScript   54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
 ```
 
 <!--END_SECTION:waka-->
