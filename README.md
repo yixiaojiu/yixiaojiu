@@ -1,7 +1,7 @@
 <h1> hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="24" />, 2024 </h1>
 
 - 🧑🏻‍💻 I am a front-end developer
-- 👀 I’m interested in TypeScript, React, React Native, Rust
+- 👀 I’m interested in TypeScript, React, Vue, Rust
 - 📝 [Blog](https://yixiaojiu-blog.netlify.app/)
 
 **This week I spent my time on** 
