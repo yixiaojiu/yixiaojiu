@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2024 - To: 08 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-TypeScript        13 hrs          ████████████░░░░░░░░░░░░░   47.66 %
-Rust              7 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
-Protocol Buffer   1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Vue.js            1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Markdown          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+TypeScript        17 hrs 12 mins  ████████████░░░░░░░░░░░░░   47.39 %
+Rust              9 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+Vue.js            4 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+JSON              1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Markdown          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
