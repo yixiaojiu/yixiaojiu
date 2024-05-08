@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 I am a front-end developer
 - 👀 I’m interested in TypeScript, React, Vue, Rust
-- 📝 [Blog](https://yixiaojiu-blog.netlify.app/)
+- 📝 [Blog](https://note.yixiaojiu.top)
 
 **This week I spent my time on** 
 
