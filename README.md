@@ -9,13 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2024 - To: 04 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
-Markdown     2 hrs 13 mins   ████████████████░░░░░░░░░   64.39 %
-JSON         36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-TypeScript   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-MDX          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
