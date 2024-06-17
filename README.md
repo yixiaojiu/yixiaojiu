@@ -9,9 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 12 June 2024
+From: 09 June 2024 - To: 16 June 2024
 
-No activity tracked
+TypeScript   5 hrs 33 mins   ██████████████████▓░░░░░░   75.27 %
+SCSS         56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
