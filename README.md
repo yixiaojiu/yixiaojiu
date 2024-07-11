@@ -4,11 +4,13 @@
 
 🧑🏻‍💻 I am a front-end developer
 
-👀 I’m interested in TypeScript, React, Vue, Rust
+👀 I’m interested in TypeScript, React, Vue, Rust，Dart
+
+💖 I like the open source community
 
 📝 [Blog](https://note.yixiaojiu.top)
 
-**This week I spent my time on** 
+## This week I spent my time on
 
 <!--START_SECTION:waka-->
 
