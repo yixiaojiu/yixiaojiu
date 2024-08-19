@@ -6,7 +6,7 @@
 
 👀 I’m interested in TypeScript, React, Vue, Rust，Dart
 
-💖 I like the open source community
+🎮 I enjoy ACGN and playing rhythm games(noob)
 
 📝 [Blog](https://note.yixiaojiu.top)
 
