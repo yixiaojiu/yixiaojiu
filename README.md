@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2024 - To: 20 September 2024
+From: 17 September 2024 - To: 24 September 2024
 
-C#           2 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.53 %
-Markdown     54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-TypeScript   47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Vue.js       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Rust         2 hrs 35 mins   ███████████████████▒░░░░░   77.19 %
+Markdown     20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+C#           13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+TOML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
