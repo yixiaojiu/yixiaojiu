@@ -1,4 +1,4 @@
-<h1> hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="24" />, 2024 </h1>
+## Hi there, I'm yixiaojiu
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=yixiaojiu" alt="yixiaojiu's Github Stats"/>
 
@@ -10,7 +10,7 @@
 
 📝 [Blog](https://note.yixiaojiu.top)
 
-## This week I spent my time on
+### This week I spent my time on
 
 <!--START_SECTION:waka-->
 
