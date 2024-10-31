@@ -8,7 +8,7 @@
 
 🎮 I enjoy ACGN and playing rhythm games(noob)
 
-📝 [Blog](https://note.yixiaojiu.top)
+🌱 This is my 📝 [Blog](https://note.yixiaojiu.top), a place where I take my notes.
 
 ### This week I spent my time on
 
