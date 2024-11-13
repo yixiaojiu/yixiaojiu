@@ -15,13 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2024 - To: 08 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-Rust         3 hrs 40 mins   ██████████████████▒░░░░░░   73.34 %
-TypeScript   49 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Rust       3 hrs 58 mins   ███████████████████████░░   92.21 %
+Markdown   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+TOML       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
