@@ -15,10 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 08 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
-Markdown   7 mins          ████████████████████████▓   99.07 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
