@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2025 - To: 28 March 2025
+From: 24 March 2025 - To: 31 March 2025
 
-JSON         31 mins         ███████████▓░░░░░░░░░░░░░   46.76 %
-TypeScript   21 mins         ████████▒░░░░░░░░░░░░░░░░   32.87 %
-CSS          4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-YAML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Markdown     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Markdown   57 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
