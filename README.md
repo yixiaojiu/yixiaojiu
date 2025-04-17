@@ -15,9 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2025 - To: 12 April 2025
+From: 09 April 2025 - To: 16 April 2025
 
-No activity tracked
+TypeScript   2 hrs 53 mins   ███████████████████████░░   91.72 %
+MDX          14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
