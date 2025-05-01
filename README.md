@@ -15,12 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
-Markdown     4 hrs 31 mins   █████████████████░░░░░░░░   67.51 %
-TypeScript   1 hr 49 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
-JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Markdown     4 hrs 35 mins   ██████████████████████▓░░   91.18 %
+TypeScript   26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
