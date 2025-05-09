@@ -15,11 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2025 - To: 04 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
-Markdown     4 mins          ██████████████████████▓░░   91.07 %
-JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
