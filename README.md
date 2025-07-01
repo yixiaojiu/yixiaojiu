@@ -19,7 +19,7 @@ The one on the right is named 由樹(ゆいじゅ), and she'll do things for me 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2025 - To: 28 June 2025
+From: 24 June 2025 - To: 01 July 2025
 
 TypeScript   1 hr 10 mins    █████████████████░░░░░░░░   67.50 %
 Markdown     20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
