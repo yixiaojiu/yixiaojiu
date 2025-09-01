@@ -19,13 +19,13 @@ The one on the right is named 由樹(ゆいじゅ), and she'll do things for me 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 28 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Python       34 mins         ████████░░░░░░░░░░░░░░░░░   32.53 %
-TypeScript   24 mins         ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-JSON         24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
-Markdown     16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-Jinja        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+TypeScript   25 mins         ███████░░░░░░░░░░░░░░░░░░   28.28 %
+Python       25 mins         ███████░░░░░░░░░░░░░░░░░░   27.74 %
+Markdown     22 mins         ██████░░░░░░░░░░░░░░░░░░░   24.07 %
+JSON         15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
