@@ -12,7 +12,7 @@
 
 The one on the right is named 由樹(ゆいじゅ), and she'll do things for me in the virtual world.
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=yixiaojiu" alt="yixiaojiu's Github Stats"/>
+<img src="https://github-readme-stats-iota-ruby-45.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=yixiaojiu" alt="yixiaojiu's Github Stats"/>
 
 ### This week I spent my time on
 
