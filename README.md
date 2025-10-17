@@ -19,7 +19,7 @@ The one on the right is named 由樹(ゆいじゅ), and she'll do things for me 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 12 October 2025
+From: 09 October 2025 - To: 16 October 2025
 
 No activity tracked
 ```
