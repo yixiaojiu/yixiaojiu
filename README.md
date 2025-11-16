@@ -10,7 +10,7 @@
 
 - 🌱 This is my 📝 [Blog](https://note.yixiaojiu.top), a place where I take my notes.
 
-The one on the right is named 由樹(ゆいじゅ), and she'll do things for me in the virtual world.
+The one on the right is named ゆいじゅ, and she'll do things for me in the virtual world.
 
 <img src="https://github-readme-stats-iota-ruby-45.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=yixiaojiu" alt="yixiaojiu's Github Stats"/>
 
