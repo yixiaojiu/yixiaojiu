@@ -19,13 +19,13 @@ The one on the right is named ゆいじゅ, and she'll do things for me in the v
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 24 November 2025
+From: 21 November 2025 - To: 28 November 2025
 
-TypeScript   5 hrs 57 mins   ██████████████░░░░░░░░░░░   55.38 %
-Markdown     2 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-JSON         56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Python       46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-TSConfig     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+TypeScript   5 hrs 30 mins   ██████████████▒░░░░░░░░░░   57.03 %
+Markdown     2 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+Python       46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+JSON         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
