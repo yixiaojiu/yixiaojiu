@@ -1,14 +1,14 @@
-## Hi there, I'm yixiaojiu
+## Hi, I'm yixiaojiu.
 
 <img src="./yuiju.webp" align="right" width="150" />
 
-- 🧑🏻‍💻 I am a front-end developer
+- I am a front-end developer
 
-- 👀 I’m interested in TypeScript, React, Vue, Rust，Dart
+- I’m interested in TypeScript, React, Vue, Rust，Dart
 
-- 🎮 I enjoy ACGN and playing rhythm games(noob)
+- I enjoy ACGN and playing rhythm games(noob)
 
-- 🌱 This is my 📝 [Blog](https://note.yixiaojiu.top), a place where I take my notes.
+- This is my 📝 [Blog](https://note.yixiaojiu.top), a place where I take my notes.
 
 The one on the right is named ゆいじゅ, and she'll do things for me in the virtual world.
 
