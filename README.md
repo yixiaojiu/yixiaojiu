@@ -10,6 +10,8 @@
 
 - This is my 📝 [Blog](https://note.yixiaojiu.top), a place where I take my notes.
 
+- Here is my 📸 [Dress Gallery](https://note.yixiaojiu.top/docs/record/show-window/dressing).
+
 The one on the right is named ゆいじゅ（悠酱）, and she'll do things for me in the virtual world.
 
 Here is the QQ group [1083608109](https://qm.qq.com/q/dQkk5GEBY6).
