@@ -23,13 +23,13 @@ Here is the QQ group [1083608109](https://qm.qq.com/q/dQkk5GEBY6).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 05 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-TypeScript   8 hrs 47 mins         ████████████░░░░░░░░░░░░░   47.62 %
-Markdown     6 hrs 10 mins         ████████▒░░░░░░░░░░░░░░░░   33.49 %
-MDX          49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Other        47 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Swift        43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Markdown     5 hrs 13 mins         ███████████▓░░░░░░░░░░░░░   46.24 %
+JSON         3 hrs 49 mins         ████████▒░░░░░░░░░░░░░░░░   33.94 %
+TypeScript   1 hr 28 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+HTML         29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JavaScript   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
